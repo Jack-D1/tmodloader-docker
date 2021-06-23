@@ -1,4 +1,4 @@
-# tModLoader Docker ![tMod Version] ![Terraria Version]  [![Docker Pulls]][0]
+# tModLoader Docker ![tMod Version] ![Terraria Version]  
 
 [tModLoader] dedicated server  
 
